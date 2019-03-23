@@ -18,6 +18,8 @@ namespace ConsoleApplication6
         public MainGUI()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+
         }
 
         private void MainGUI_Load(object sender, EventArgs e)
@@ -125,6 +127,26 @@ namespace ConsoleApplication6
                 richTextBox1.Text = gaus.solve();
             }
            
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

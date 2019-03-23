@@ -7,3 +7,11 @@ C:\Users\Hamza\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Gaussia
 C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Gaussian-Jordan-Method\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
 C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Gaussian-Jordan-Method\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
 C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Gaussian-Jordan-Method\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.exe
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.exe
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\ConsoleApplication6.MainGUI.resources
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\GitHub\gaussian-solver\Gaussian-Jordan-Method\obj\Debug\Gaussian-Jordan-Method.csprojResolveAssemblyReference.cache
